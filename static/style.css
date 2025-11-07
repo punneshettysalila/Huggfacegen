@@ -1,0 +1,103 @@
+body {
+    font-family: 'Segoe UI', Arial, sans-serif;
+    margin: 0;
+    color: #134f5c;
+    background: linear-gradient(120deg, #e0f7fa 0%, #83e6e0 40%, #52bfa9 60%, #357c98 100%);
+    background-size: 400% 400%;
+    animation: oceanBG 14s ease-in-out infinite;
+    min-height: 100vh;
+}
+
+@keyframes oceanBG {
+    0% {
+        background: linear-gradient(120deg, #e0f7fa 0%, #83e6e0 40%, #52bfa9 60%, #357c98 100%);
+    }
+    50% {
+        background: linear-gradient(120deg, #b4e3ef 10%, #42c2b3 50%, #2695b6 80%, #084f5a 100%);
+    }
+    100% {
+        background: linear-gradient(120deg, #e0f7fa 0%, #83e6e0 40%, #52bfa9 60%, #357c98 100%);
+    }
+}
+
+h2 {
+    color: #2695b6;
+    text-shadow: 0 2px 10px #e0f7fa;
+    font-size: 2rem;
+    margin-top: 48px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+form {
+    background: rgba(255, 255, 255, 0.87);
+    max-width: 480px;
+    margin: 0 auto;
+    padding: 28px 32px 18px 32px;
+    border-radius: 12px;
+    box-shadow: 0 4px 24px rgba(52,191,169,0.09);
+    display: flex;
+    flex-direction: column;
+}
+
+label {
+    font-weight: 600;
+    color: #134f5c;
+    margin-bottom: 8px;
+    letter-spacing: 1px;
+}
+
+input[type="text"] {
+    padding: 10px;
+    margin-bottom: 16px;
+    border-radius: 7px;
+    border: 1px solid #52bfa9;
+    outline: none;
+    font-size: 1rem;
+    background: #e0f7fa;
+    color: #134f5c;
+    transition: border-color 0.2s;
+}
+input[type="text"]:focus {
+    border-color: #2695b6;
+}
+
+button {
+    background: linear-gradient(90deg, #42c2b3 0%, #2695b6 100%);
+    color: #fff;
+    font-weight: 700;
+    border: none;
+    border-radius: 7px;
+    padding: 12px 0;
+    font-size: 1rem;
+    margin-bottom: 12px;
+    cursor: pointer;
+    box-shadow: 0 2px 8px #b2ebf2;
+    transition: background-color 0.2s ease;
+}
+button:hover {
+    background: linear-gradient(90deg, #2695b6 0%, #42c2b3 100%);
+}
+
+h3 {
+    color: #357c98;
+    font-size: 1.32rem;
+    text-align: center;
+    margin-top: 34px;
+    margin-bottom: 11px;
+}
+
+pre {
+    display: block;
+    width: 90%;
+    max-width: 540px;
+    margin: 0 auto 24px auto;
+    padding: 18px;
+    background: #f1fdff;
+    border-radius: 10px;
+    font-size: 1rem;
+    font-family: 'Consolas', 'Monaco', monospace;
+    color: #134f5c;
+    box-shadow: 0 2px 12px #83e6e0;
+    white-space: pre-wrap;
+}
