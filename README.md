@@ -82,6 +82,11 @@ This project is a minimal and interactive web app that uses HuggingFace's Transf
 - Practice deployment-readiness for GenAI-driven apps.
 
 ***
+## Output 
+
+
+
+***
 
 ##  Contributing
 
