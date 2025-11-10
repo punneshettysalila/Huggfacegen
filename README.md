@@ -58,12 +58,22 @@ This project is a minimal and interactive web app that uses HuggingFace's Transf
 
 ##  Sample Prompts & Result
 
-- **Prompt:** `The future of artificial intelligence is`
+- **Prompt:** `Future of AI `
 - **Generated:** 
-  `The future of artificial intelligence is vast and unpredictable. As AI systems become more advanced, they will impact...`
+  `Future of AI[29], it is clear that the rise of Ai is...`
 - **Prompt:** `In the year 2050, cities will be powered by `
 - **Generated:** 
   `In the year 2050, cities will be powered by wind and solar. But the cost of energy, and the climate impact...`
+
+  
+<img width="1202" height="379" alt="Image" src="https://github.com/user-attachments/assets/453ea583-9d18-449b-a000-2524b5a636af" />
+<img width="830" height="761" alt="Image" src="https://github.com/user-attachments/assets/67601804-7376-42ae-b2d7-ba320f94281a" />
+<img width="936" height="555" alt="Image" src="https://github.com/user-attachments/assets/fd790aed-19c8-4519-80fb-483719398bc1" />
+<img width="916" height="371" alt="Image" src="https://github.com/user-attachments/assets/20f89624-cce5-4716-9ca1-d0a4033e498f" />
+<img width="907" height="680" alt="Image" src="https://github.com/user-attachments/assets/d0ef2713-641c-472c-8798-a312058d67e6" />
+
+
+  
 ***
 
 ##  Customization
