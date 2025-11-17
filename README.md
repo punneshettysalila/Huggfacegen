@@ -66,11 +66,11 @@ This project is a minimal and interactive web app that uses HuggingFace's Transf
   `In the year 2050, cities will be powered by wind and solar. But the cost of energy, and the climate impact...`
 
   
-<img width="1202" height="379" alt="Image" src="https://github.com/user-attachments/assets/453ea583-9d18-449b-a000-2524b5a636af" />
-<img width="830" height="761" alt="Image" src="https://github.com/user-attachments/assets/67601804-7376-42ae-b2d7-ba320f94281a" />
-<img width="936" height="555" alt="Image" src="https://github.com/user-attachments/assets/fd790aed-19c8-4519-80fb-483719398bc1" />
-<img width="916" height="371" alt="Image" src="https://github.com/user-attachments/assets/20f89624-cce5-4716-9ca1-d0a4033e498f" />
-<img width="907" height="680" alt="Image" src="https://github.com/user-attachments/assets/d0ef2713-641c-472c-8798-a312058d67e6" />
+<img width="1226" height="694" alt="Image" src="https://github.com/user-attachments/assets/39a0d81d-a162-42f0-a5c6-dc64958e4e9d" />
+<img width="1046" height="541" alt="Image" src="https://github.com/user-attachments/assets/0603c7c4-9b91-433b-b517-7ad15b0bd82b" />
+<img width="1100" height="785" alt="Image" src="https://github.com/user-attachments/assets/1cd059f0-52f6-45ad-bc1d-bd84e3477a04" />
+<img width="916" height="371" alt="Image" src="https://github.com/user-attachments/assets/4acec341-21a0-4ca7-87b3-c268ad2bf725" />
+<img width="907" height="680" alt="Image" src="https://github.com/user-attachments/assets/f17ec9f0-0e04-450a-b414-c03c9a680971" />
 
 
   
