@@ -1,3 +1,0 @@
-flask
-transformers
-torch      # Required as the backend for transformers
