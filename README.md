@@ -1,6 +1,6 @@
 ***
 
-# Text Generation Demo with GPT-2 (HuggingFace & Flask)
+# Text Generation Demo with distilGPT-2 (HuggingFace & Flask)
 
 This project is a minimal and interactive web app that uses HuggingFace's Transformers library to generate coherent texts from user prompts in real time, powered by a GPT-2 model. It’s designed as a self-driven learning project to explore practical GenAI integration and deployment.
 
